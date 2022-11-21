@@ -24,5 +24,5 @@ How do you plan to tackle this project?:
 What concepts or tools from class relate to this project?:
 
 What additional resources (code, data, literature) would support this project?:
-
+ 
 How can Andy or Renata help?:
